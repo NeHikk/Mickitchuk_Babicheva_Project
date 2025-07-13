@@ -34,15 +34,6 @@
   python Chord_Metod.py
 
 
-Структура репозитория
-text
-.
-├── Chord_Metod.py      # Исходный код метода
-├── Ispoln_File/               # Папка с собранным .exe
-│   └── Chord_Metod.exe
-├── LICENSE             # Лицензия
-└── README.md           # Этот файл
-
 
 Лицензия
 Проект распространяется под лицензией MIT.

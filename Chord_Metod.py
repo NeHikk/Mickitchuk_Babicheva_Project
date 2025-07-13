@@ -1,4 +1,4 @@
-"""модификация для программы на добавление подсказок в воды полей"""
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import matplotlib.pyplot as plt
